@@ -7,8 +7,8 @@ Data used in this project:
 [Dataset](https://drive.google.com/file/d/1TEZaUkym6H04JcMABYlvqjqXBQVmt1nk/view?usp=sharing)
 
 Raw Data Source:
-1. [Detecting Masked Faces in the Wild with LLE-CNNs](http://www.escience.cn/people/geshiming/mafa.html)
-2. [WIDER FACE: A Face Detection Benchmark](http://shuoyang1213.me/WIDERFACE/)
+- [Detecting Masked Faces in the Wild with LLE-CNNs](http://www.escience.cn/people/geshiming/mafa.html)
+- [WIDER FACE: A Face Detection Benchmark](http://shuoyang1213.me/WIDERFACE/)
 
 Reference:
 - [FaceMaskDetection by AIZOOTech](https://github.com/AIZOOTech/FaceMaskDetection)
