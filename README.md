@@ -11,5 +11,5 @@ Raw Data Source:
 2. [WIDER FACE: A Face Detection Benchmark](http://shuoyang1213.me/WIDERFACE/)
 
 Reference:
-[FaceMaskDetection by AIZOOTech](https://github.com/AIZOOTech/FaceMaskDetection)
-[Detecting Masked Faces in the Wild with LLE-CNNs](http://www.escience.cn/people/geshiming/mafa.html)
+- [FaceMaskDetection by AIZOOTech](https://github.com/AIZOOTech/FaceMaskDetection)
+- [Detecting Masked Faces in the Wild with LLE-CNNs](http://www.escience.cn/people/geshiming/mafa.html)
